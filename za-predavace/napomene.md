@@ -5,6 +5,10 @@
 - Nije neophodno uvoditi korišćenje web servera za deo vežbi koji se tiče HTML-a i CSS-a, svakako može i tada. Kada se uvodi korišćenje web servera bitno je objasniti kako načelno radi.
 - Pokazati studentima kako rade dev alati u browseru.
 
+## Sajtovi
+
+- [stylestage.dev](https://stylestage.dev/)
+
 ## Izmene materijala (2023/24)
 
 _Izmene materijala koji se nalazi na KWT IMIOER u odnosu na materijal sa Moodle stranice predmeta koji se trenutno (2023/24) tu nalazi (stari materijal)_
