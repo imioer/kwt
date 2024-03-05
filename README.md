@@ -6,6 +6,8 @@ Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github
 
 ## Vežbe
 
+- [**_Korisni resursi_**](resursi/index.md)
+
 ### Skripte
 
 #### Prvi deo: _HTML_ i _CSS_
