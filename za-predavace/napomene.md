@@ -14,6 +14,7 @@ _Izmene materijala koji se nalazi na KWT IMIOER u odnosu na materijal sa Moodle 
 
 Izbačeno:
 - Inline CSS za boju paragrafa | _Ostavljeno za vezbe kada se radi CSS_
+- Slike | _Prebaceno za Vezbe 2_ | Izbacen `map`
 
 Dodato:
 - Uvodna priča (internet, web, browser, xml, ...)
@@ -24,6 +25,13 @@ Izbačeno:
 - Inline CSS za `float` i `border` slike | _Ostavljeno za vezbe kada se radi CSS_
 - Primer sa CSS-om za delove tabele (`primer 03.html`) | _Ostavljeno za vezbe kada se radi CSS_
 - UVod u CSS (`primer 05.html`) | _Ostavljeno za vezbe kada se radi CSS_
+- Inputi | _Prebaceno za Vezbe 3_
 
 Dodato:
+- Slike
 - Pokazivanje gde se koj deo tabele nalazi preko sadrzaja tih delova, i preko inspektora (zamena za `primer 03.html`)
+
+### Vezbe 3
+
+Dodato:
+- Inputi
