@@ -10,11 +10,14 @@ Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github
 
 ### Skripte
 
-#### Prvi deo: _HTML_ i _CSS_
+#### Prvi deo: _HTML & CSS_
 - [**_Vežbe 1_**](vezbe/01.md) **_`in progress`_**
 - [**_Vežbe 2_**](vezbe/02.md) **_`in progress`_**
 - [**_Vežbe 3_**](vezbe/03.md) **_`in progress`_**
 - [**_Vežbe 4_**](vezbe/04.md) **_`in progress`_**
+
+#### Drugi deo: _JavaScript_
+- **_`TODO`_**
 
 ### Primeri
 - **_`TODO`_**
