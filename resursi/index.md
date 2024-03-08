@@ -1,6 +1,9 @@
 # Korisni resursi
 
-## Tools
+- [**_MDN Web Docs (References)_**](https://developer.mozilla.org/en-US/docs/Web#web_technology_references) - Kompletna dokumentacija web tehnologija kao sto su HTML, CSS i JavaScript
+- [**_W3Schools_**](https://www.w3schools.com/) - Tutorijali, dokumentacija, itd.
+
+## Alati
 - [_Style Stage_](https://stylestage.dev/) (One HTML different CSS)
 - [_CSS Zen Garden_](http://csszengarden.com/) (One HTML different CSS)
 - [_How to center in CSS_](http://howtocenterincss.com/) (Code generator)
