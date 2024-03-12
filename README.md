@@ -2,7 +2,9 @@
 
 Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github.io).
 
-[**_Moodle stranica predmeta_**](https://imi.pmf.kg.ac.rs/moodle/course/view.php?id=137)
+Svi fajlovi kursa - [_Download (.zip)_](https://github.com/imioer/ds/archive/refs/heads/main.zip)
+
+Zvanična stranica predmeta - [_Moodle_](https://imi.pmf.kg.ac.rs/moodle/course/view.php?id=137)
 
 ## Vežbe
 
@@ -10,13 +12,13 @@ Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github
 
 ### Skripte
 
-#### Prvi deo: _HTML & CSS_
+#### _HTML & CSS_
 - [**_Vežbe 1_**](vezbe/01.md)
 - [**_Vežbe 2_**](vezbe/02.md) _`in progress`_
 - [**_Vežbe 3_**](vezbe/03.md) _`draft`_
 - [**_Vežbe 4_**](vezbe/04.md) _`draft`_
 
-#### Drugi deo: _JavaScript_
+#### _JavaScript_
 - _`TODO`_
 
 ### Primeri
