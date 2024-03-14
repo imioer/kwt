@@ -14,8 +14,8 @@ Zvanična stranica predmeta - [_Moodle_](https://imi.pmf.kg.ac.rs/moodle/course/
 
 #### _HTML & CSS_
 - [**_Vežbe 1_**](vezbe/01.md)
-- [**_Vežbe 2_**](vezbe/02.md) _`in progress`_
-- [**_Vežbe 3_**](vezbe/03.md) _`draft`_
+- [**_Vežbe 2_**](vezbe/02.md)
+- [**_Vežbe 3_**](vezbe/03.md) _`in progress`_
 - [**_Vežbe 4_**](vezbe/04.md) _`draft`_
 
 #### _JavaScript_
