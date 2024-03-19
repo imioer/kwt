@@ -9,6 +9,7 @@ Zvanična stranica predmeta - [_Moodle_](https://imi.pmf.kg.ac.rs/moodle/course/
 ## Vežbe
 
 - [**_Korisni resursi_**](resursi/index.md)
+- [**_Kod sa vezbi_**](kod-sa-vezbi/index.md)
 
 ### Skripte
 
