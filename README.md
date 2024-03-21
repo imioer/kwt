@@ -10,14 +10,16 @@ Zvanična stranica predmeta - [_Moodle_](https://imi.pmf.kg.ac.rs/moodle/course/
 
 - [**_Korisni resursi_**](resursi/index.md)
 - [**_Kod sa vezbi_**](kod-sa-vezbi/index.md)
+- [**_Snimci 2022/23_**](https://www.youtube.com/playlist?list=PLf9cKN0gV33y8vVnREGYh9Mb6RFEGCTDl)
 
 ### Skripte
 
 #### _HTML & CSS_
 - [**_Vežbe 1_**](vezbe/01.md)
 - [**_Vežbe 2_**](vezbe/02.md)
-- [**_Vežbe 3_**](vezbe/03.md) _`in progress`_
-- [**_Vežbe 4_**](vezbe/04.md) _`draft`_
+- [**_Vežbe 3_**](vezbe/03.md)
+- [**_Vežbe 4_**](vezbe/04.md) _`in_progress`_
+- [**_Vežbe 5_**](vezbe/05.md) _`in_progress`_
 
 #### _JavaScript_
 - _`TODO`_
