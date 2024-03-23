@@ -2,6 +2,12 @@
 
 ### 2022/23
 
+- **Vežbe 1**
+    - Grupa II - [**_Download (.zip)_**](./2022/2-grupa/kwt-01.zip)
+- **Vežbe 2**
+    - Grupa II - [**_Download (.zip)_**](./2022/2-grupa/kwt-02.zip)
+- **Vežbe 3**
+    - Grupa II - [**_Download (.zip)_**](./2022/2-grupa/kwt-03.zip)
 - **Vežbe 4**
     - Grupa II - [**_Download (.zip)_**](./2022/2-grupa/v4_2023-03-16_.zip)
 - **Vežbe 5**
