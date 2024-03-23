@@ -2,19 +2,21 @@
 
 Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github.io).
 
-Svi fajlovi kursa - [_Download (.zip)_](https://github.com/imioer/ds/archive/refs/heads/main.zip)
+Svi fajlovi kursa - [**_Download (.zip)_**](https://github.com/imioer/ds/archive/refs/heads/main.zip)
 
 Zvanična stranica predmeta - [_Moodle_](https://imi.pmf.kg.ac.rs/moodle/course/view.php?id=137)
 
 ## Vežbe
 
+### Linkovi
+
 - [**_Korisni resursi_**](resursi/index.md)
 - [**_Snimci 2022/23_**](https://www.youtube.com/playlist?list=PLf9cKN0gV33y8vVnREGYh9Mb6RFEGCTDl)
 
 ### Kod
-- [**_Zadaci_**](kod/zadaci/index.md)
-- [**_Primeri_**](kod/primeri/index.md)
 - [**_Kod sa vezbi_**](kod/vezbe/index.md)
+- [**_Zadaci_**](kod/zadaci/index.md) _`todo`_
+- [**_Primeri - Download (.zip)_**](kod/primeri/primeri_2022.zip)
 
 ### Skripte
 
@@ -28,8 +30,6 @@ Zvanična stranica predmeta - [_Moodle_](https://imi.pmf.kg.ac.rs/moodle/course/
 #### _JavaScript_
 - _`TODO`_
 
-### Primeri
-- _`TODO`_
 
 [licence]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [licence-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
