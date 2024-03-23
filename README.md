@@ -9,8 +9,12 @@ Zvanična stranica predmeta - [_Moodle_](https://imi.pmf.kg.ac.rs/moodle/course/
 ## Vežbe
 
 - [**_Korisni resursi_**](resursi/index.md)
-- [**_Kod sa vezbi_**](kod-sa-vezbi/index.md)
 - [**_Snimci 2022/23_**](https://www.youtube.com/playlist?list=PLf9cKN0gV33y8vVnREGYh9Mb6RFEGCTDl)
+
+### Kod
+- [**_Zadaci_**](kod/zadaci/index.md)
+- [**_Primeri_**](kod/primeri/index.md)
+- [**_Kod sa vezbi_**](kod/vezbe/index.md)
 
 ### Skripte
 
