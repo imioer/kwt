@@ -10,6 +10,10 @@
 
 _Izmene materijala koji se nalazi na KWT IMIOER u odnosu na materijal sa Moodle stranice predmeta koji se trenutno (2023/24) tu nalazi (stari materijal)_
 
+### Opšte napomene
+
+- Nigde se nije pominjao border-radius kod CSS-a
+
 ### Vežbe 1
 
 Izbačeno:
@@ -30,6 +34,20 @@ Izbačeno:
 Dodato:
 - Slike
 - Pokazivanje gde se koj deo tabele nalazi preko sadrzaja tih delova, i preko inspektora (zamena za `primer 03.html`)
+
+### Vežbe 4
+
+Izbačeno
+- Napredni selektori | _Prebačeno za Vežbe 5_
+
+Dodato:
+- `display: flex`
+
+### Vežbe 5
+
+Dodato:
+- Napredni selektori
+
 
 ### VezbeJS01 | TODO: Preimenovati vezbe
 
