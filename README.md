@@ -15,7 +15,7 @@ Zvanična stranica predmeta - [_Moodle_](https://imi.pmf.kg.ac.rs/moodle/course/
 
 ### Kod
 - [**_Kod sa vezbi_**](kod/vezbe/index.md)
-- [**_Zadaci_**](kod/zadaci/index.md) _`todo`_
+- [**_Rešenja zadataka_**](kod/zadaci/index.md)
 - [**_Primeri - Download (.zip)_**](kod/primeri/primeri_2022.zip)
 
 ### Skripte
