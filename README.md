@@ -24,11 +24,12 @@ Zvanična stranica predmeta - [_Moodle_](https://imi.pmf.kg.ac.rs/moodle/course/
 - [**_Vežbe 1_**](vezbe/01.md)
 - [**_Vežbe 2_**](vezbe/02.md)
 - [**_Vežbe 3_**](vezbe/03.md)
-- [**_Vežbe 4_**](vezbe/04.md) _`in_progress`_
-- [**_Vežbe 5_**](vezbe/05.md) _`in_progress`_
+- [**_Vežbe 4_**](vezbe/04.md)
+- [**_Vežbe 5_**](vezbe/05.md)
+- **_Vežbe 6 (Konsultacije)_**
 
 #### _JavaScript_
-- _`TODO`_
+- [**_Vežbe 7_**](vezbe/07.md)
 
 
 [licence]: http://creativecommons.org/licenses/by-nc-sa/4.0/
