@@ -2,7 +2,7 @@
 
 Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github.io).
 
-Svi fajlovi kursa - [**_Download (.zip)_**](https://github.com/imioer/ds/archive/refs/heads/main.zip)
+Svi fajlovi kursa - [**_Download (.zip)_**](https://github.com/imioer/kwt/archive/refs/heads/main.zip)
 
 Zvanična stranica predmeta - [_Moodle_](https://imi.pmf.kg.ac.rs/moodle/course/view.php?id=137)
 
