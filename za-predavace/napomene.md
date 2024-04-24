@@ -29,7 +29,7 @@ Izbačeno:
 - Inline CSS za `float` i `border` slike | _Ostavljeno za vezbe kada se radi CSS_
 - Primer sa CSS-om za delove tabele (`primer 03.html`) | _Ostavljeno za vezbe kada se radi CSS_
 - UVod u CSS (`primer 05.html`) | _Ostavljeno za vezbe kada se radi CSS_
-- Inputi | _Prebaceno za VezbeJS01_
+- Inputi | _Prebaceno za Vežbe 5_
 
 Dodato:
 - Slike
@@ -49,7 +49,12 @@ Dodato:
 - Napredni selektori
 
 
-### VezbeJS01 | TODO: Preimenovati vezbe
+### Vežbe 7
 
 Dodato:
 - Inputi
+
+### Vežbe 8
+
+Izbačeno:
+- Primer "Avion" (setTimeout) | **Bice prebaceno negde za kraj (posto nema na klk)**
