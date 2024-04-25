@@ -58,3 +58,4 @@ Dodato:
 
 Izbačeno:
 - Primer "Avion" (setTimeout) | **Bice prebaceno negde za kraj (posto nema na klk)**
+- form on submit (`<form ... onsubmit="return validator()">`)
