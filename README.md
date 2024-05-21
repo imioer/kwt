@@ -31,10 +31,9 @@ Zvanična stranica predmeta - [_Moodle_](https://imi.pmf.kg.ac.rs/moodle/course/
 #### _JavaScript_
 - [**_Vežbe 7_**](vezbe/07.md)
 - [**_Vežbe 8_**](vezbe/08.md)
-- [**_Vežbe 9_**](vezbe/09.md) (in-progress)
-- [**_Vežbe 10_**](vezbe/10.md) (in-progress)
-- **_Vežbe 11_** (todo)
-- **_Vežbe 12 (Konsultacije)_**
+- [**_Vežbe 9_**](vezbe/09.md)
+- [**_Vežbe 10_**](vezbe/10.md)
+- **_Vežbe 11 (Konsultacije)_**
 
 
 [licence]: http://creativecommons.org/licenses/by-nc-sa/4.0/
