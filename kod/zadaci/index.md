@@ -9,3 +9,4 @@
 
 - **II kolokvijum 2020** - [**_Download (.zip)_**](./K2-2020_Resenje.zip)
 - **II kolokvijum 2022** - [**_Download (.zip)_**](./K2-2022_Resenje.zip)
+- **II kolokvijum 2022 (popravni)** - [**_Download (.zip)_**](./K2-2022-Pop_Resenje.zip)
