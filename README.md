@@ -14,8 +14,8 @@ Zvanična stranica predmeta - [_Moodle_](https://imi.pmf.kg.ac.rs/moodle/course/
 - [**_Snimci 2022/23_**](https://www.youtube.com/playlist?list=PLf9cKN0gV33y8vVnREGYh9Mb6RFEGCTDl)
 
 ### Kod
+- [**_Zadaci_**](kod/zadaci/index.md)
 - [**_Kod sa vezbi_**](kod/vezbe/index.md)
-- [**_Rešenja zadataka_**](kod/zadaci/index.md)
 - [**_Primeri - Download (.zip)_**](kod/primeri/primeri_2022.zip)
 
 ### Skripte
